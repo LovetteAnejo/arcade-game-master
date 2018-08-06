@@ -48,9 +48,9 @@ Open the `Index.html` to run the game, the rules of the game are set by the `ini
  
  The way i make this game is such that all/most of the values the game requires to run are located in the `initiliser.js` file
  So anychanges to,
- 	- Live amount on player start
-	- Amount of enemies at starting
-	- Amount of Gems on screen if they spawn
-	- Amount of Lives on screen if they spawn
-	etc are configured in this `initiliser.js` file
+ - Live amount on player start
+ - Amount of enemies at starting
+ - Amount of Gems on screen if they spawn
+ - Amount of Lives on screen if they spawn
+etc are configured in this `initiliser.js` file
 ## A big Thanks For Viewning my project.
